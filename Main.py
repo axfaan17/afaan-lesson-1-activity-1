@@ -1,0 +1,5 @@
+print("welcome to python programming class")
+print("hello, world!")
+print("my name is afaan")
+print("i love playing football")
+print("the sum of 3 + 5 is:", 3+5)
